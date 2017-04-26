@@ -1,6 +1,6 @@
 # npmtest-exorcist
 
-#### test coverage for  [exorcist (v0.4.0)](https://github.com/thlorenz/exorcist)  [![npm package](https://img.shields.io/npm/v/npmtest-exorcist.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-exorcist) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-exorcist.svg)](https://travis-ci.org/npmtest/node-npmtest-exorcist)
+#### basic test coverage for  [exorcist (v0.4.0)](https://github.com/thlorenz/exorcist)  [![npm package](https://img.shields.io/npm/v/npmtest-exorcist.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-exorcist) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-exorcist.svg)](https://travis-ci.org/npmtest/node-npmtest-exorcist)
 
 #### Externalizes the source map found inside a stream to an external `.js.map` file
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-exorcist/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-exorcist/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-exorcist/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-exorcist/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-exorcist/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-exorcist/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-exorcist/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-exorcist/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-exorcist/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-exorcist/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-exorcist/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-exorcist/build/coverage.html/index.html)
 
